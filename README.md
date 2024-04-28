@@ -18,3 +18,7 @@ A threaded elbow has been designed on both ends, ideal for high-pressure install
 High-pressure valve, designed for oilfield installations. The piece consists of three joints. Bolt and screw joints are also included.
 [![Valve.jpg](https://i.postimg.cc/c44XV98B/Valve.jpg)](https://postimg.cc/23MQWxG1)
 
+
+## T Type <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+T-type fitting designed for water installations, includes installation threads, and it is advised to be 3D printed in metal to avoid welding and obtain a clean piece. Copper is the material used.
+[![T-type.jpg](https://i.postimg.cc/Hs11CCt1/T-type.jpg)](https://postimg.cc/nM2Pvg53)
