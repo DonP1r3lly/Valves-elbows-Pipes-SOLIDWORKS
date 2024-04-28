@@ -14,3 +14,7 @@ A threaded elbow has been designed on both ends, ideal for high-pressure install
 [![elbow.jpg](https://i.postimg.cc/T2KLynmJ/elbow.jpg)](https://postimg.cc/QVrxw9fF)
 
 
+## Valve <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+High-pressure valve, designed for oilfield installations. The piece consists of three joints. Bolt and screw joints are also included.
+[![Valve.jpg](https://i.postimg.cc/c44XV98B/Valve.jpg)](https://postimg.cc/23MQWxG1)
+
