@@ -6,8 +6,7 @@ For a 3D printing research project, I designed three types of parts for use with
 
 ## Pipe joints <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 Pipe joints designed to be 3D printed in metal, eliminating the need for welding joints and resulting in a clean piece. The material used is copper.
-[![pipe-joints.jpg](https://i.postimg.cc/0N7PS2nn/pipe-joints.jpg)](https://postimg.cc/4K4DkGrH)
-
+[![pipe-joints.jpg](https://i.postimg.cc/wBcjt8hS/pipe-joints.jpg)](https://postimg.cc/KKj2VWpN)
 
 ## Elbow <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 A threaded elbow has been designed on both ends, ideal for high-pressure installations. The material used is brass.
